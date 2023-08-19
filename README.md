@@ -5,7 +5,7 @@ View readme in google docs at https://docs.google.com/document/d/1qPe5P7X9FhsVrN
 
 # Aave Grant Final Submission 
 ### Aave Wallet Segmentation Profiles
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_clusters_highlevel.png) "Logo Title Text 1")
 * Final Submission [Video Presentation](https://drive.google.com/file/d/1X8KSfrqaKvzJaZ69aol6_EEbzpAySXTG/view?usp=drive_link) 
 * Final Presentation Slides [Doc](https://docs.google.com/presentation/d/1jmH_mYUKAbfpeS26G_rKwC1nDa-zkxxgucDgSEfEBPk/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1LlVqZOpd2JTfXs4PyrUI18NZj940sd0f/view?usp=drive_link)
 * Final Write Up [Doc](https://docs.google.com/document/d/1PhqBSPe3vLQHI8e07EeMqUaj_aviwA2RFN_l5xjTpGU/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1wMvG5qZhcb5KCYB-RKCOalvjL9aOeXHl/view?usp=drive_link)
