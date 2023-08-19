@@ -37,9 +37,9 @@ The Fraud Detection & Defense workstream at Gitcoin applied and was approved for
 * Profiling based on 114,915 wallets available on mainnet for data availability
 * Histograms: by chain, by event, by version
 * Scatterplot matrix of all variables endogenous & exogenous
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Methodology
+![3d view](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_clustering_13_3D_map.gif)
 * Non-linear dimensional reduction: t-SNE & UMAP
 * Manual parameter search looking for meaningful separation
 * Visual investigation of 3-Dimensional feature space
@@ -49,7 +49,7 @@ The Fraud Detection & Defense workstream at Gitcoin applied and was approved for
 * Reviewing the final cluster solution in 2D & 3D space
 
 ## Results (Personas)
-![Image of 3D space gif](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_cluster_pcp.png)( "Logo Title Text 1")
+![parallel_coordinate_plots](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_cluster_pcp.png)
 * Quantitative review of the group mean vectors using color g* radient for examination
 * Parallel coordinate plots to visualize segments in multiple dimensions
 * Personas created based on behavioral observations:
@@ -75,4 +75,6 @@ The Fraud Detection & Defense workstream at Gitcoin applied and was approved for
 * Ethereum Only (9,321 | 8.03%)
 * Multichain (24,107 | 20.98%)
 
-* ![procouvar](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![vector_table](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_clusters_table.png)
+
+* Review table of proportions, counts, and variables against exogenous variables
