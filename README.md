@@ -5,10 +5,10 @@ View readme in google docs at https://docs.google.com/document/d/1qPe5P7X9FhsVrN
 
 # Aave Grant Final Submission 
 ### Aave Wallet Segmentation Profiles
-![alt text](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_clusters_highlevel.png) "Logo Title Text 1")
+![alt text](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/aave_clusters_highlevel.png)
 * Final Submission [Video Presentation](https://drive.google.com/file/d/1X8KSfrqaKvzJaZ69aol6_EEbzpAySXTG/view?usp=drive_link) 
-* Final Presentation Slides [Doc](https://docs.google.com/presentation/d/1jmH_mYUKAbfpeS26G_rKwC1nDa-zkxxgucDgSEfEBPk/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1LlVqZOpd2JTfXs4PyrUI18NZj940sd0f/view?usp=drive_link)
-* Final Write Up [Doc](https://docs.google.com/document/d/1PhqBSPe3vLQHI8e07EeMqUaj_aviwA2RFN_l5xjTpGU/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1wMvG5qZhcb5KCYB-RKCOalvjL9aOeXHl/view?usp=drive_link)
+* Final Presentation Slides [Doc](https://docs.google.com/presentation/d/1jmH_mYUKAbfpeS26G_rKwC1nDa-zkxxgucDgSEfEBPk/edit?usp=drive_link) [PDF](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/Final%20-%20Aave%20Wallet%20Segmentation%20Analysis.pdf)
+* Final Write Up [Doc](https://docs.google.com/document/d/1PhqBSPe3vLQHI8e07EeMqUaj_aviwA2RFN_l5xjTpGU/edit?usp=drive_link) [PDF](https://github.com/Fraud-Detection-and-Defense/aave-wallet-segmentation/blob/main/Final%20-%20Aave%20Wallet%20Segmentation%20Analysis%20Doc.pdf)
 
 ## Intro / TL;DR
 The Fraud Detection & Defense workstream at Gitcoin applied and was approved for a grant to perform a wallet segmentation analysis for the Aave ecosystem. Using their unique understanding of onchain behaviors and analysis provided by 2 years defending Gitcoin from Sybil attacks, they put their team to work understanding the user groups & personas which interact with Aave contracts.
